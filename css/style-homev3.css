@@ -3460,7 +3460,8 @@ footer .copy {
   transform: translate(-50%, -50%);
 }
 .feedback {
-  margin-bottom: 180px;
+  margin-bottom: 90px;
+  margin-top: -135px;
 }
 .main-title {
   font-family: Abril Fatface;
